@@ -1,0 +1,8 @@
+.gradle/
+.idea/
+.allure
+allure-results
+build/
+out/
+*.ipr
+*.iml
